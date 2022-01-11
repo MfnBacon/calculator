@@ -49,7 +49,7 @@ button {
 
 
 .num-btn {
-    
+  
     background-color:lightgray;
   }
   
@@ -59,6 +59,7 @@ button {
   
   .btn-equals {
     background-color:green;
+    min-width:300px;
   }
   
   .btn-clear {
